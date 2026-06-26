@@ -46,15 +46,10 @@ Through this project, I gained hands-on experience with:
 * End-to-end NLP application design
 
 
-## Future Improvements
-
-* Multi-PDF support
-* Chat history and memory
-* Source citations
-* Enhanced open-source LLMs
-* Cloud deployment
-
 ## Author
 
-**Shreeya Suriya**
+Shreeya Suriyakumar
+
+Aspiring Data Scientist | Python | Machine Learning | Data Analytics
+
 
